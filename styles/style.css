@@ -126,19 +126,21 @@ body {
 }
 
 .apresentacao_imagem{
-    width: 50%;
+    width: 30%;
 
 
 }
 
 .rodape{
-    padding: 24px;
+    padding:1.5rem;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--fonte-secundaria);
     font-weight: 400;
     font-size: 1.5rem;
+    
+    
 
 }
 
@@ -162,6 +164,8 @@ body {
         width: auto;
     }
     
+    .rodape{
+        padding: 100%;
+    }
     
-
 }
