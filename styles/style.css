@@ -165,7 +165,9 @@ body {
     }
     
     .rodape{
-        padding: 100%;
+        padding: 5% 100%;
+        display: flex;
+        
     }
     
 }
